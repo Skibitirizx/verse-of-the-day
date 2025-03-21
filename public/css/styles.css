@@ -1,25 +1,18 @@
 body {
     font-family: Arial, sans-serif;
+    background-color: #f4f4f9;
     text-align: center;
-    margin: 0;
-    padding: 0;
-    background-color: #f4f4f4;
+    padding: 50px;
 }
 
-#app {
-    max-width: 600px;
-    margin: 50px auto;
-    padding: 20px;
-    background: white;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+#bible-verse-container {
+    background-color: #fff;
+    padding: 30px;
     border-radius: 10px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
 }
 
 h1 {
+    font-size: 24px;
     color: #333;
-}
-
-p {
-    font-size: 18px;
-    color: #555;
 }
