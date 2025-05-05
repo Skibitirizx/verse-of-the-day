@@ -6,7 +6,7 @@ const verses = [
   "Proverbs 3:5 - Trust in the Lord with all your heart...",
   "Isaiah 40:31 - Those who wait on the Lord shall renew their strength...",
   "Matthew 6:33 - Seek first the kingdom of God...",
-  // Add more verses as needed
+  "Jeremiah 29:11 - For I know the plans I have for you...",
 ];
 
 function getDailyVerse() {
